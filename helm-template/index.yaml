@@ -3,7 +3,7 @@ entries:
   app-templ-1:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-09-18T16:18:11.573987753-03:00"
+    created: "2022-09-18T16:17:21.196847394-03:00"
     description: A Helm chart for Kubernetes
     digest: f1eb8afb9a54f39814d570338b2733d48c6993ead6546f3cfbfef85bd309d8ad
     name: app-templ-1
@@ -11,4 +11,4 @@ entries:
     urls:
     - https://psilva310.github.io/helm-template/app-templ-1-1.tgz
     version: "1"
-generated: "2022-09-18T16:18:11.572476601-03:00"
+generated: "2022-09-18T16:17:21.195986158-03:00"
